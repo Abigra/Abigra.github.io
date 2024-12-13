@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I grew up on the Gulf Coast of Florida, where I gained an appreciation for naturalism and the world's oceans; I followed this passion to Boston University where I studied Marine Science and Biology and honed my skills as an ecologist and field biologist. Throughout my undergraduate studies, I recognized the need for new methods that allow researchers to use their data sets to their full potential.  This inspired me to pursue a path that allowed me to incorporate fieldwork and develop new tools using machine learning methods for biological datasets. I work as a PhD student at Cornell University with Dr. Andrew Hein in the computational biology department.  I am passionate about both creating data, through fieldwork, and building tools that allow ecologists to best utilize existing and underutilized data sets to push the field forward. Currently, I am working to build computer vision models that can detect and classify behaviors of organisms observed in the field. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Education:
 
-What else do you need?
+2023-Current: Cornell University Ph.D. Student in Computational Biology 
 
-### My story
+2019-2023: Boston University B.A. in Marine Science with Honors; Minor in Biology
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Research Interests:
+Biological Modeling
+Theoretical Ecology
+Ecosystem Dynamics
+Competition

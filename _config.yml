@@ -20,10 +20,11 @@ author: Abigail Grassick
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  CV:
-  Diversity, Equity, and Inclusion:
-  Projects:
+  Home: "aboutme"
+  Research: "Research"
+  CV: "cv"
+  Community Outreach: "Outreach"
+  Blog: "Blog"
   
 
 ################
@@ -85,8 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
-
+rss-description: Ecology of Collective Behavior, marine systems, and more
 ###########################
 # --- General options --- #
 ###########################

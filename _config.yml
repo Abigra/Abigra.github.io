@@ -20,7 +20,7 @@ author: Abigail Grassick
 ###############################################
 
 navbar-links:
-  Home: "index.html"
+  Home: "/index.html"
   Research: "Research"
   CV: "cv"
   Community Outreach: "Outreach"
